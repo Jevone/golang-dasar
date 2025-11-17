@@ -16,3 +16,5 @@ func main() {
 		fmt.Println("isi index ke : ", i)
 	}
 }
+
+// tes tes
